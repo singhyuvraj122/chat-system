@@ -7,7 +7,7 @@ if(!$userid){
 echo "<h1>Welcome \"{$userid}\"</h1>";
 ?>
 <!DOCTYPE HTML>
-<html>
+<html lang="en-us">
   <head>
     <title>HOME</title>
     <link rel="stylesheet" type="text/css" href="home.css">
